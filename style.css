@@ -116,6 +116,10 @@ footer {
     height: 32px;
 }
 
+.footer-icons img:hover {
+    filter: invert(70%) sepia(25%) saturate(6261%) hue-rotate(305deg) brightness(96%) contrast(97%);
+}
+
 .footer-attribution {
     font-size: 11px;
     font-family: 'Arial';
